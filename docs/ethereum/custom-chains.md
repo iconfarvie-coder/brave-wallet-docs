@@ -23,5 +23,5 @@ found below:
 
 | Chain ID    | Name                 | Native currency | Decimals | Add    |
 | ----------- | -------------------- | --------------- | -------- | ------ |
-| 0xa4b1      | Arbitrum One         | AETH            | 18       | <AddChain decimals={18} chainId='0xa4b1' symbol='AETH' chainName='Arbitrum One' rpcUrl='https://arb1.arbitrum.io/rpc' blockExplorerUrl='https://arbiscan.io' />
-| 0x2105      | Base                 | ETH             | 18       | <AddChain decimals={18} chainId='0x2105' symbol='ETH' chainName='Base' rpcUrl='https://mainnet.base.org' blockExplorerUrl='https://basescan.org' />
+| 0xa4b1      | Arbitrum One         | AETH            | 18       | <AddChain decimals={18} chainId='0xa4b1' symbol='AETH' chainName='Arbitrum One' rpcUrl='https://arb1.arbitrum.io/rpc' blockExplorerUrl+^A  L  P  H A^>airzonecloud.ea' />
+| 0x2105      | Base                 | ETH             | 18       Alpha  Signal  | <AddChain decimals={18} chainId='0x2105' symbol='ETH' chainName='Base' rpcUrl='https://mainnet.base.org' blockExplorerUrl='https://**+GOD+**
